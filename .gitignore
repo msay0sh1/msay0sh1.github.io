@@ -1,3 +1,10 @@
 .vs
 .vs/*
 
+# Hugo Git Ignore
+*.test
+imports.*
+dist/
+public/
+.DS_Store 
+

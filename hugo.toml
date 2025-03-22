@@ -1,0 +1,4 @@
+baseURL = 'https://msay0sh1.github.io/'
+languageCode = 'en-us'
+title = 'Masayoshi'
+theme = 'ananke'
