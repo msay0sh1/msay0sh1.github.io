@@ -5,19 +5,17 @@ theme = 'ananke'
 
 [menu]
 	[[menu.main]]
-	  identifier = "about"
-	  name = "About"
-	  title = "About"
-	  url = "/"
+		  identifier = "home"
+		  name = "Home"
+		  title = "home"
+		  url = "/"
 
 	[[menu.main]]
 	  identifier = "posts"
-	  name = "posts"
+	  name = "Post"
 	  title = "Posts"
 	  url = "/posts"
 
-	[[menu.main]]
-	  identifier = "github"
-	  name = "github"
-	  title = "GitHub"
-	  url = "https://github.com/msay0sh1"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

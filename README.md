@@ -10,3 +10,17 @@
 URL Target : [_msay0sh1.github.io_](http://msay0sh1.github.io) </br>
 Site Builder : [Go HUGO](https://gohugo.io/)
 
+---
+
+Task List :
+- [ ] Install Theme
+- [ ] Add Post
+- [ ] 
+
+---
+
+
+
+
+
+
