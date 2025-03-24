@@ -1,6 +1,6 @@
 +++
 date = '2025-03-23'
-draft = true
+draft = false
 title = 'Post Kedua'
 [[cascade]]
 	url='/:year/:month/23'
