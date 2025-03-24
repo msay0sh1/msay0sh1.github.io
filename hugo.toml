@@ -1,21 +1,25 @@
 baseURL = 'https://msay0sh1.github.io/'
 languageCode = 'en-us'
 title = 'Masayoshi Pages'
-theme = 'ananke'
-
-[menu]
-	[[menu.main]]
-		  identifier = "home"
-		  name = "Home"
-		  title = "home"
-		  url = "/"
-
-	[[menu.main]]
-	  identifier = "posts"
-	  name = "Post"
-	  title = "Posts"
-	  url = "/posts"
+theme = 'hello-friend-ng'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+	author = "Mikazuki"
+
+	homeSubtitle = 'A Warrior, Athlete, Stoic, & Kind.'
+	
+	EnableThemeToggle = ''
+
+	enableGlobalLanguageMenu = true
+
+
+	backgroundImage = 'images/bg01.jpg'
+	
+[[menu.main]]
+	identifier = 'posts'
+	name = 'posts'
+	url = '/posts'
