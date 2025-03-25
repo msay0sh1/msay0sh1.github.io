@@ -11,15 +11,9 @@ theme = 'hello-friend-ng'
 	author = "Mikazuki"
 
 	homeSubtitle = 'A Warrior, Athlete, Stoic, & Kind.'
-	
-	EnableThemeToggle = ''
 
 	enableGlobalLanguageMenu = true
 
 
-	backgroundImage = 'images/bg01.jpg'
-	
-[[menu.main]]
-	identifier = 'posts'
-	name = 'posts'
-	url = '/posts'
+[markup]
+  defaultMarkdownHandler = 'goldmark'
