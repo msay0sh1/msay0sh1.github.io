@@ -8,7 +8,7 @@ theme = 'ananke'
     dir = ':cacheDir/images'
 
 [params]
-	author = "Masayoshi_023"
+	author = "Masayoshi"
 
 
 

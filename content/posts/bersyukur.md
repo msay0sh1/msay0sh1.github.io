@@ -9,6 +9,7 @@ draft: false
 images: null
 title: Bersyukur & Mensikapi Dunia
 toc: false
+author: false
 ---
 
 ```text
@@ -23,6 +24,10 @@ Surely Allah is All-Forgiving, Most Merciful.
 
 
 Apabila Kamu menghitung nikmat Allah Maka kamu tidak akan bisa.
+
+Bersyukurlah maka Allah akan Menambah & Mempertahankan nikmat tersebut padamu.
+
+
 
 
 

@@ -1,10 +1,11 @@
 ---
 date: "2025-03-23"
 draft: false
-title: Masayoshi Page
+title: Masayoshi Journey
+subtitle: false
 ---
 
-# Ohayou
-
+### Sugeng Rawuh 
+#### Be Patience & Calmness. Keep Say Alhamdulillah
 
 

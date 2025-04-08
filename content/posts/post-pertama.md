@@ -1,12 +1,19 @@
 ---
-date: "2025-03-22T23:40:19+07:00"
+date: "2025-03-22"
 draft: false
-slug: /pembukaan
-title: Pembukaan | Post Pertama  Sebelum Deploy
+slug: /salam-pembukaan
+title: Pembukaan / Mukadimah
+author: false
 ---
 
+#### *Bismillah*
 
-> Greeting All , Ini Post Pertama 
+---
+
+### TUJUAN
+ - Mengumpulkan Informasi, Ide, & Gagasan.
+ - Mencatat Masukan.
+ - Mengingat Hal Penting & Moment.
 
 
 
